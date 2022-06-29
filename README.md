@@ -1,2 +1,2 @@
 # fizzbuzz
-Simple Python program for the FizzBuzz game
+Simple Dart and Python program for the FizzBuzz game
